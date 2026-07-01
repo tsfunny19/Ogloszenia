@@ -60,6 +60,11 @@ Zapraszam do kontaktu przez Discord lub e-mail.
 
 ## 👨‍💻 Autor
 
+**ScorpioDev[tsfunny]**
+
+Java Developer • Minecraft Plugin Developer • Technik Serwerowy
+
+
 **ScorpioDev**
 
 Java Developer • Minecraft Plugin Developer • Technik Serwerowy
