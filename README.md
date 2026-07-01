@@ -65,7 +65,3 @@ Zapraszam do kontaktu przez Discord lub e-mail.
 Java Developer • Minecraft Plugin Developer • Technik Serwerowy
 
 
-**ScorpioDev**
-
-Java Developer • Minecraft Plugin Developer • Technik Serwerowy
-
