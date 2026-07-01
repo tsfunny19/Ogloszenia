@@ -48,7 +48,4 @@ Nowoczesny, lekki i w pełni konfigurowalny plugin do automatycznych ogłoszeń 
 ## ❤️ Autor
 
 Projekt tworzony przez **tsFunny**.
-
-## 📄 Licencja
-
-Projekt udostępniony na licencji **MIT**.
+MODRINTH --->> https://modrinth.com/plugin/ogloszeniasco
