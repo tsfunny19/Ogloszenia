@@ -45,7 +45,15 @@ Nowoczesny, lekki i w pełni konfigurowalny plugin do automatycznych ogłoszeń 
 - Rozbudowany system uprawnień
 - Więcej placeholderów PlaceholderAPI
 
-## ❤️ Autor
+## 📫 Kontakt
 
-Projekt tworzony przez **tsFunny**.
-MODRINTH --->> https://modrinth.com/plugin/ogloszeniasco
+📧 **E-mail:** scorpiodev19@gmail.com  
+💬 **Discord:** scorpiodev  
+🌐 **Portfolio:** https://tsfunny19.github.io/scorpiodev/  
+🐙 **GitHub:** https://github.com/tsfunny19  
+⬇️ **Pobierz OgloszeniaSCO:** https://modrinth.com/plugin/ogloszeniasco  
+
+⭐ Jeśli plugin Ci się spodobał, zostaw ocenę na Modrinth!
+
+💼 **Potrzebujesz dedykowanego pluginu lub wersji Premium?**
+Zapraszam do kontaktu przez Discord lub e-mail.
