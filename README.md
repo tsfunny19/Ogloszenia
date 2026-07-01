@@ -57,3 +57,10 @@ Nowoczesny, lekki i w pełni konfigurowalny plugin do automatycznych ogłoszeń 
 
 💼 **Potrzebujesz dedykowanego pluginu lub wersji Premium?**
 Zapraszam do kontaktu przez Discord lub e-mail.
+
+## 👨‍💻 Autor
+
+**ScorpioDev**
+
+Java Developer • Minecraft Plugin Developer • Technik Serwerowy
+
